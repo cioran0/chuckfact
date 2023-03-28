@@ -1,6 +1,6 @@
 # chuckfact
 react chuckfact.com website using chucknorris.io 
-Not for profit, not related to or in any way endorsed by Chuck Norris, just a fan demonstrating some front end skills.
+Not for profit, not related to or in any way endorsed by Chuck Norris, just a fan demonstrating some front end skills using an api that is free. 
 
 Uses REACT-BOOTSTRAP
 Features:
@@ -14,7 +14,10 @@ Features:
 8. Dark theme Color palette inspired largely by VS Code
 9. Is/will be deployed using vercel cloud PaaS
 
-So basically, shows I can do front end work. Also, and perhaps more importantly, I like Invasion USA.
+So basically, shows I can do front end work. Also, and perhaps more importantly, I like Invasion USA and Delta Force 2. A lot.
 
 Have a nice day!
 Mike
+
+P.S. Special thanks to the awesome guy who does the chucknorris api
+P.P.S Don't use this for profit, claim credit (my name is on the website), or anything bad.
