@@ -1,5 +1,5 @@
 # chuckfact
-Hey! So here's the code for the production build of react [chuckfact.com](https://www.chuckfact.com) website using chucknorris.io API. 
+Hey! So here's the code for the production build of react [chuckfact.com](https://www.chuckfact.com) website using [chucknorris.io API](https://api.chucknorris.io/) by @matchilling. I used [axios](https://www.npmjs.com/package/react-axios?activeTab=readme) to access the API in REACT.
 *You can look at the relevant **REACT source from the development build in the src** folder 
 *Not for profit, not related to or in any way endorsed by Chuck Norris, just a fan demonstrating some front end skills using an api that is free. 
 
