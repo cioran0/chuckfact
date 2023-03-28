@@ -1,5 +1,5 @@
 # chuckfact
-Production build of react [chuckfact.com] website using chucknorris.io API
+Production build of react [chuckfact.com](chuckfact.com) website using chucknorris.io API
 You can look at the relevant **REACT source from the development build in the src** folder 
 Not for profit, not related to or in any way endorsed by Chuck Norris, just a fan demonstrating some front end skills using an api that is free. 
 
