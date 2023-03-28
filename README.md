@@ -1,5 +1,5 @@
 # chuckfact
-react chuckfact.com website using chucknorris.io 
+react chuckfact.com website using chucknorris.io API
 Not for profit, not related to or in any way endorsed by Chuck Norris, just a fan demonstrating some front end skills using an api that is free. 
 
 Uses REACT-BOOTSTRAP
