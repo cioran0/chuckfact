@@ -1,0 +1,117 @@
+:root {
+    --font-color: #333;
+    --title-font-color:var(--font-color);
+    --background-color: #eee;
+    --link-color: cornflowerblue;
+    --text-shadow: lightgrey;
+    --h4-color: blue;
+    --card-bkg: var(--text-shadow);
+    --btn-bkg: var(--background-color);
+  }
+  
+  [data-theme="dark"] {
+    --title-font-color: #007ACC;
+    --font-color:#eee;
+    --background-color: #333;
+    --link-color: lightblue;
+    --text-shadow: black;
+    --h4-color: yellow;
+    --card-bkg: var(--background-color);
+    --btn-bkg: var(--title-font-color);
+  }
+  
+  body {
+    background-color: var(--background-color);
+    color: var(--font-color);
+  }
+  
+  a {
+    color: var(--link-color);
+  }
+  
+  h4{
+    color: var(--font-color)
+  }
+
+  .card{
+    background-color: var(--card-bkg);  
+    border-color: var(--font-color);
+  }
+
+  .title {
+    color: var(--title-font-color);
+    font-size: 50px;
+    text-shadow: 5px 5px var(--text-shadow);    
+  }
+
+  /* Custom Dark Mode Toggle Element */
+  
+  .toggle-theme-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .toggle-theme-wrapper span {
+    font-size: 28px;
+    margin: 0 4px;
+  }
+  
+  .toggle-theme {
+    position: relative;
+    display: inline-block;
+    height: 34px;
+    width: 60px;
+  }
+  
+  .toggle-theme input {
+    display: none;
+  }
+  
+  .slider {
+    background-color: #ccc;
+    position: absolute;
+    cursor: pointer;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    transition: 0.2s;
+  }
+  
+  .slider:before {
+    background-color: #fff;
+    bottom: 2px;
+    content: "";
+    height: 26px;
+    left: 4px;
+    position: absolute;
+    transition: 0.4s;
+    width: 26px;
+  }
+  
+  input:checked + .slider:before {
+    transform: translateX(26px);
+  }
+  
+  input:checked + .slider {
+    background-color: cornflowerblue;
+  }
+  
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+  
+  input{
+    background-color: var(--background-color);
+    color: var(--font-color);
+  }
+
+  button{
+    background-color: var(--btn-bkg);
+    color: var(--font-color);
+  }
