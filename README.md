@@ -15,7 +15,7 @@ Features:
 8. Dark theme Color palette inspired largely by VS Code
 9. Is deployed using vercel cloud PaaS
 
-So basically, shows I can do front end work. Also, and perhaps more importantly, I like Invasion USA and Delta Force 2. A lot.
+So basically, shows I can do front end work. Also, and perhaps more importantly, I like Invasion USA and Delta Force II. A lot.
 
 Have a nice day!
 Mike
