@@ -1,5 +1,5 @@
 # chuckfact
-react website using chucknorris.io 
+react chuckfact.com website using chucknorris.io 
 Not for profit, not related to or in any way endorsed by Chuck Norris, just a fan demonstrating some front end skills.
 
 Uses REACT-BOOTSTRAP
@@ -12,7 +12,9 @@ Features:
 6. Uses an imported toggle react component (code is about teamwork and using tools)
 7. Chuck Norris Facts
 8. Dark theme Color palette inspired largely by VS Code
+9. Is/will be deployed using vercel cloud PaaS
 
 So basically, shows I can do front end work. Also, and perhaps more importantly, I like Invasion USA.
 
 Have a nice day!
+Mike
