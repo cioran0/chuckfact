@@ -13,7 +13,7 @@ Features:
 7. Chuck Norris Facts
 8. Dark theme Color palette inspired largely by VS Code
 9. DEPRECATED Was deployed using vercel cloud PaaS
-10. Was redeployed from hosting after a registrar change
+10. Was redeployed from hosting after a registrar change on the chuckfact.com domain
 
 So basically, shows I can do front end work. Also, and perhaps more importantly, I like Invasion USA and Delta Force II. A lot.
 
